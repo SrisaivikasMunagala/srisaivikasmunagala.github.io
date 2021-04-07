@@ -1,0 +1,141 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    height: 700px;
+}
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1 {
+    margin: 50px auto 0 auto;
+    top: 50px;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 300;
+    font-size: 4.6875em;
+    color: #66bfbf;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66bfbf;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.vikas-img {
+    border-radius: 50%;
+    margin: 100px auto 100 auto;
+    width: 25%;
+}
+
+.footer-link {
+    color: #11999e;
+    margin: 50px;
+    padding-top: 100px;
+}
+.skill-row {
+    /*text-align: left;*/
+    line-height: 2;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.align-text {
+    text-align: left;
+    margin-bottom: 100px;
+}
+.code-img {
+    border-radius: 50%;
+    margin: 100px auto 100 auto;
+    width: 25%;
+    margin-right: 30px;
+}
+.game-img {
+    border-radius: 50%;
+    margin: 100px auto 100 auto;
+    width: 25%;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.align-text-top {
+    text-align: left;
+}
+.contact-me {
+    background-color: #66bfbf;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    height: 200px;
+    padding: 50px 0 20px ;
+
+}
+.credits {
+    background-color: #66bfbf;
+}
+.space {
+    height: 25px;
+}
+.BUTTON_HDI {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_HDI:hover {
+    background: #58A1A1;
+    border: solid #E0FFFF 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .hr {
+     border: dotted #eaf6f6dc 6px;
+     width: 4%;
+     border-top: 5px;
+     margin: 100px auto;
+     
+ }
+ .blak {
+     height: 25px;
+ }
+ .blank {
+     height: 15px;
+ }
