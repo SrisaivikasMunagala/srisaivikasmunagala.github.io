@@ -1,0 +1,27 @@
+body {background-color: #a2c4c9;
+      font-family: 'Comfortaa', cursive;
+     }
+
+h1 {
+    color: #134f5c;
+    font-family: 'Comfortaa', cursive;
+}
+
+h2 {
+    color: #45818e;
+}
+
+p {
+    color: #134f5c;
+}
+
+li {
+    color: #134f5c;
+}
+
+button {
+   background-color: 134f5c;
+   border: 0px;
+   padding: 10px;
+   color: grey;
+}
