@@ -19,9 +19,11 @@ li {
     color: #134f5c;
 }
 
-button {
-   background-color: 134f5c;
-   border: 0px;
-   padding: 10px;
-   color: grey;
+
+#nav {
+    background-color: 134f5c;
+    border: 0px;
+    padding: 10px;
+    color: grey;
 }
+
