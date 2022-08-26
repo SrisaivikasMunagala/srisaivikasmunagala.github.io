@@ -19,7 +19,6 @@ li {
     color: #134f5c;
 }
 
-
 #nav {
     background-color: 134f5c;
     border: 0px;
@@ -27,3 +26,9 @@ li {
     color: grey;
 }
 
+button {
+    background-color: 134f5c;
+    border: 0px;
+    padding: 10px;
+    color: grey;
+}
