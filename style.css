@@ -32,3 +32,6 @@ button {
     padding: 10px;
     color: grey;
 }
+button:hover {
+    background-color: yellow;
+}
